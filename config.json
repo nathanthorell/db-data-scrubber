@@ -1,0 +1,25 @@
+{
+  "mappings": [
+    {
+      "database": "MusicPlatform",
+      "schema": "dbo",
+      "table": "User",
+      "column": "Email",
+      "fake_data_type": "email"
+    },
+    {
+      "database": "MusicPlatform",
+      "schema": "dbo",
+      "table": "User",
+      "column": "UserName",
+      "fake_data_type": "name"
+    },
+    {
+      "database": "MusicPlatform",
+      "schema": "dbo",
+      "table": "Artist",
+      "column": "ArtistName",
+      "fake_data_type": "name"
+    }
+  ]
+}
